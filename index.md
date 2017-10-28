@@ -1,5 +1,11 @@
 ## Welcome to 张西彦的技术博客
 
+恭喜您，
+您已经成功基于GitHub搭建了自己的blog平台，
+修改风格（样式+布局）这些就是下面要进行的工作。
+
+
+
 You can use the [editor on GitHub](https://github.com/zhangxiyan1229/zhangxiyan1229.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
